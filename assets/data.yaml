@@ -1,49 +1,13 @@
 entries:
-  - title: "<abbr title=\"Practice & Experience in Advanced Research Computing 2021 (Conference)\">PEARC21</abbr> Virtual Conference"
+  - title: "TACCster 2021"
     url: 
-        webpage: https://pearc.acm.org/pearc21/
-        image: /documents/1084364/1970021/pearc21.png
-        external: true
-    extra: 
-    date: July 19th – 22nd
-    time: 
-    location: 
-  - title: "2021 DesignSafe Academy"
-    url: 
-        webpage: https://www.designsafe-ci.org/learning-center/training/webinars/ds/2021/designsafe-academy/
-        image: /documents/1084364/1694621/designsafe-events.jpg
-        external: true
-    extra: 
-    date: July 26th - 30th
-    time: 10am - 5pm CDT
-    location: 
-  - title: "TACC Summer Institute:<br />Computational Research Techniques: Parallel Programing"
-    url: 
-        webpage: /education/institutes/applied-parallel-programming
-        image: /documents/1084364/1825988/applied-parallel-programming.jpg
+        webpage: https://www.tacc.utexas.edu/taccster-2021
+        image: /documents/1084364/1825988/homepageNews-taccster.jpg
         external: false
     extra: 
-    date: July 29th, August 12th, August 19th
+    date: September 23rd - 24th
     time: 
     location: 
-  - title: "TACC Summer Institute:<br />Machine Learning"
-    url: 
-        webpage: /education/institutes/machine-learning
-        image: /documents/1084364/1825988/machine-learning-with-intel.jpg
-        external: false
-    extra: 
-    date: August 2nd – 6th
-    time: 
-    location:  
-  - title: "TACC Summer Institute:<br />Marine Sciences Machine Learning Workshop"
-    url: 
-        webpage: /education/institutes/marine-sciences-ml-workshop
-        image: /documents/1084364/1970021/marine-sciences-ml-workshop.png
-        external: false
-    extra: 
-    date: August 9th – 20th
-    time: 
-    location:  
   - title: "<abbr title=\"Supercomputing 2021 (Conference)\">SC2021</abbr>"
     url: 
         webpage: https://sc21.supercomputing.org/
