@@ -11,7 +11,7 @@
     "nps": "^5.9.12",
     "shx": "^0.3.2",
     "remark": "^11.0.2",
-    "remark-html": "^10.0.0",
+    "remark-html": "^13.0.2",
     "yamljs": "^0.3.0"
   },
   "// scripts": {
