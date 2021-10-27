@@ -1,13 +1,4 @@
 entries:
-  - title: "TACCster 2021"
-    url: 
-        webpage: https://www.tacc.utexas.edu/taccster-2021
-        image: /documents/1084364/1825988/homepageNews-taccster.jpg
-        external: false
-    extra: 
-    date: September 23rd - 24th
-    time: 
-    location: 
   - title: "<abbr title=\"Supercomputing 2021 (Conference)\">SC2021</abbr>"
     url: 
         webpage: https://sc21.supercomputing.org/
