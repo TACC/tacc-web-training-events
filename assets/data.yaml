@@ -8,6 +8,7 @@ entries:
     date: November 14th – 19th
     time: 
     location: 
+    is_location_inline: FALSE
   - title: "Horizontal-to-Vertical Spectral Ratios (HVSR) of Ambient Noise for Earthquake Engineering"
     url: 
         webpage: https://www.designsafe-ci.org/learning-center/training/webinars/ds/2021/hvsr-ambient-noise-earthquake-engineering
@@ -17,6 +18,7 @@ entries:
     date: November 17th
     time: 1:00PM – 2:00PM CT
     location: 
+    is_location_inline: FALSE
   - title: "2021 NSF NHERI Wall of Wind Experimental Facility User Workshop"
     url: 
         webpage: https://www.designsafe-ci.org/learning-center/training/workshops/fiu-ef/2021-wow-ef-user-workshop
@@ -26,3 +28,4 @@ entries:
     date: December 2nd – 3rd
     time: 9:00AM – 5:00PM ET
     location: Miami, FL
+    is_location_inline: TRUE
