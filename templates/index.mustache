@@ -1,7 +1,6 @@
 {{> styles }}
 <h2 id="training-events">
-	Training &amp; Events</h2>
-{{#entries}}
+	Training &amp; Events</h2>{{#entries}}
 <div class="row">
 	<div class="col-xs-3">
 		<a href="{{{url.webpage}}}" style="margin-bottom:10px;"{{#url.external}} target="_blank"{{/url.external}}><img class="img-responsive" src="{{{url.image}}}" style="margin-bottom:10px;" /></a></div>
@@ -13,5 +12,4 @@
 			{{time}}</span>{{/time}}{{#location}}{{#is_location_inline}}&nbsp; |&nbsp;{{/is_location_inline}}{{^is_location_inline}}<br />{{/is_location_inline}}
 			{{location}}{{/location}}</p>
 	</div>
-</div>
-{{/entries}}
+</div>{{/entries}}
