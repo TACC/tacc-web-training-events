@@ -15,6 +15,14 @@ entries:
     extra: 
     date: February 9th, 2022
     time: 9:00am – 4:00pm
+  - title: "High Performance Computing on Frontera/Webinar"
+    url: 
+        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=115
+        image: /documents/1084364/2064636/frontera-all-logos.png
+        external: true
+    extra: 
+    date: February 17th – 24th, March 3rd
+    time: 9:00am – 3:30pm
   - title: "Frontera Computational Science Fellowships: Apply Now"
     url: 
         webpage: https://frontera-portal.tacc.utexas.edu/fellowship/application/
