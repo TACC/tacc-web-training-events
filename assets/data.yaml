@@ -1,12 +1,4 @@
 entries:
-  - title: "Introduction to Portable Extensible Toolkit for Scientific Computing (PETSc)<br /><small>(hybrid course - you may participate in person or online)</small>"
-    url: 
-        webpage: https://learn.tacc.utexas.edu/course/view.php?id=114
-        image: /documents/1084364/2064636/petsc.png
-        external: true
-    extra: 
-    date: February 4th, 2022
-    time: 9:00am – 4:00pm
   - title: "Containers at TACC<br /><small>(hybrid course - you may participate in person or online)</small>"
     url: 
         webpage: https://learn.tacc.utexas.edu/course/view.php?id=113
