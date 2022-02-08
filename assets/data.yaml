@@ -6,7 +6,7 @@ entries:
         external: true
     extra: 
     date: February 9th, 2022
-    time: 9:00am – 4:00pm
+    time: 9:00am – 4:00pm CST
   - title: "High Performance Computing on Frontera/Webinar"
     url: 
         webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=115
@@ -14,7 +14,7 @@ entries:
         external: true
     extra: 
     date: February 17th – 24th, March 3rd
-    time: 9:00am – 3:30pm
+    time: 9:00am – 3:30pm CST
   - title: "Frontera Computational Science Fellowships: Apply Now"
     url: 
         webpage: https://frontera-portal.tacc.utexas.edu/fellowship/application/
@@ -22,3 +22,10 @@ entries:
         external: true
     extra: 
     date: February 18th, 2022
+  - title: "Machine Learning at TACC Training Series"
+    url:
+        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=116
+        image: /documents/1084364/2064636/machine-learning-data-analysis.png
+        external: true
+    date: March 24, March 31, April 7, April 14
+    time: 9:00AM – 1:00PM CST
