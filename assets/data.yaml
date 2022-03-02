@@ -1,27 +1,4 @@
 entries:
-  - title: "Containers at TACC<br /><small>(hybrid course - you may participate in person or online)</small>"
-    url: 
-        webpage: https://learn.tacc.utexas.edu/course/view.php?id=113
-        image: /documents/1084364/2064636/tacc-containers.png
-        external: true
-    extra: 
-    date: February 9th, 2022
-    time: 9:00am – 4:00pm CST
-  - title: "High Performance Computing on Frontera/Webinar"
-    url: 
-        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=115
-        image: /documents/1084364/2064636/frontera-all-logos.png
-        external: true
-    extra: 
-    date: February 17th – 24th, March 3rd
-    time: 9:00am – 3:30pm CST
-  - title: "Frontera Computational Science Fellowships: Apply Now"
-    url: 
-        webpage: https://frontera-portal.tacc.utexas.edu/fellowship/application/
-        image: /documents/1084364/1970021/nsf-frontera.png
-        external: true
-    extra: 
-    date: February 18th, 2022
   - title: "Machine Learning at TACC Training Series"
     url:
         webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=116
