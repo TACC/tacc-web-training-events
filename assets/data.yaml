@@ -6,3 +6,10 @@ entries:
         external: true
     date: March 24, March 31, April 7, April 14
     time: 9:00AM – 1:00PM CST
+  - title: "Containers @TACC Tutorial -- Webinar and In-Person"
+    url:
+        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=118
+        image: /documents/1084364/2064636/tacc-containers-2022-04.png/e64a4b57-a634-4891-ae13-d6463d161944?t=1649168077221
+        external: true
+    date: May 4
+    time: 9:00am – 4:00pm CST
