@@ -1,11 +1,4 @@
 entries:
-  - title: "Machine Learning at TACC Training Series"
-    url:
-        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=116
-        image: /documents/1084364/2064636/machine-learning-data-analysis.png
-        external: true
-    date: March 24, March 31, April 7, April 14
-    time: 9:00AM – 1:00PM CST
   - title: "Containers @TACC Tutorial -- Webinar and In-Person"
     url:
         webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=118
