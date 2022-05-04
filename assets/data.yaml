@@ -1,11 +1,4 @@
 entries:
-  - title: "Containers @TACC Tutorial -- Webinar and In-Person"
-    url:
-        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=118
-        image: /documents/1084364/2064636/tacc-containers-2022-04.png
-        external: true
-    date: May 4
-    time: 9:00am – 4:00pm CST
   - title: "2022 We_Teach CS Summit"
     url:
         webpage: https://weteachcssummit2022.sched.com/
