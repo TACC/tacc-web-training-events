@@ -1,4 +1,12 @@
 entries:
+  - title: "Big Data in Biology Summer School 2022"
+    url:
+        webpage: https://research.utexas.edu/cbrs/classes/big-data-in-biology-summer-school/2022-summer-school/
+        image: /documents/1084364/2064636/utvprsce.png
+        external: true
+    date: May 31 – June 24
+    location: multiple courses lasting from 4-5 days
+    is_location_inline: true
   - title: "2022 We_Teach CS Summit"
     url:
         webpage: https://weteachcssummit2022.sched.com/
