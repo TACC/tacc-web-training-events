@@ -7,11 +7,3 @@ entries:
     date: May 31 – June 24
     location: multiple courses lasting from 4-5 days
     is_location_inline: true
-  - title: "2022 We_Teach CS Summit"
-    url:
-        webpage: https://weteachcssummit2022.sched.com/
-        image: /documents/1084364/2064636/css-for-yall.png
-        external: true
-    date: June 20-21
-    location: Georgetown, Texas
-    is_location_inline: true
