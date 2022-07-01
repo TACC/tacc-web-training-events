@@ -1,10 +1,19 @@
 entries:
-  - title: "<strong>Intel Developer Tools Optimization Training</strong>"
+  - title: 2022 Frontera User Meeting – Registration Open!
     url:
-        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=121
-        image: /documents/1084364/2064636/intel.png
+        webpage: https://frontera-portal.tacc.utexas.edu/user-meeting/2022/
+        image: /documents/1084364/2064636/frontera-all-logos.png
         external: true
-    date: June 30
-    time: 10:00 AM – 1:00 PM CST
-    location: "<a href=\"https://docs.google.com/document/d/1xkEF2qVVvHVqeFdq68OGZbfFvzVYSeh93DIdLEhU-nk/edit?usp=sharing\" target=\"_blank\">Agenda</a>"
+    date: August 4–5, 2022
+    time:
+    location: Austin, TX
+    is_location_inline: true
+  - title: PEARC22
+    url:
+        webpage: https://pearc.acm.org/
+        image: /documents/1084364/2064636/pearc22.png
+        external: true
+    date: July 10–14, 2022
+    time:
+    location: Boston, MA
     is_location_inline: true
