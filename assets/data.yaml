@@ -8,12 +8,3 @@ entries:
     time:
     location: Austin, TX
     is_location_inline: true
-  - title: PEARC22
-    url:
-        webpage: https://pearc.acm.org/
-        image: /documents/1084364/2064636/pearc22.png
-        external: true
-    date: July 10–14, 2022
-    time:
-    location: Boston, MA
-    is_location_inline: true
