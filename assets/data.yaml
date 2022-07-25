@@ -8,3 +8,13 @@ entries:
     time:
     location: Austin, TX
     is_location_inline: true
+  - title: SC22
+    url:
+        webpage: https://sc22.supercomputing.org/
+        image: /documents/1084364/2064636/ss22-logo.png
+        external: true
+    date: November 13–18, 2022
+    time:
+    location: Dallas, TX
+    is_location_inline: true
+
