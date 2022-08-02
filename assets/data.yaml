@@ -1,13 +1,4 @@
 entries:
-  - title: 2022 Frontera User Meeting – Registration Open!
-    url:
-        webpage: https://frontera-portal.tacc.utexas.edu/user-meeting/2022/
-        image: /documents/1084364/2064636/frontera-all-logos.png
-        external: true
-    date: August 4–5, 2022
-    time:
-    location: Austin, TX
-    is_location_inline: true
   - title: SC22
     url:
         webpage: https://sc22.supercomputing.org/
