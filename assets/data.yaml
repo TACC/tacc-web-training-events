@@ -1,4 +1,22 @@
 entries:
+  - title: HPC Leadership
+    url:
+        webpage: https://www.tacc.utexas.edu/education/professionals/tacc-institutes/hpc-leadership
+        image: /documents/1084364/2064636/hoc-leadership.png
+        external: false
+    date: September 12–14, 2022
+    time:
+    location: Dallas, TX
+    is_location_inline: true
+  - title: TACCster 2022
+    url:
+        webpage: https://sc22.supercomputing.org/
+        image: /documents/1084364/2064636/taccster-2022.png
+        external: true
+    date: September 28–30, 2022
+    time:
+    location: Austin, TX
+    is_location_inline: true
   - title: SC22
     url:
         webpage: https://sc22.supercomputing.org/
@@ -8,4 +26,3 @@ entries:
     time:
     location: Dallas, TX
     is_location_inline: true
-
