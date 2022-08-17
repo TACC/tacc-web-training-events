@@ -1,8 +1,14 @@
 entries:
-  - title: HPC Leadership
+  - title: Scientific Visualization (Virtual)
+    url:
+        webpage: https://www.tacc.utexas.edu/education/professionals/tacc-institutes/scientific-visualization
+        image: /documents/1084364/2064636/crt-scivis.png
+        external: true
+    date: August 24 – September 14, 2022
+  - title: HPC Leadership Institute in Cooperation with Microsoft and MITRE (In Person Only)
     url:
         webpage: https://www.tacc.utexas.edu/education/professionals/tacc-institutes/hpc-leadership
-        image: /documents/1084364/2064636/hoc-leadership.png
+        image: /documents/1084364/2064636/hpc-leadership.png
         external: false
     date: September 12–14, 2022
     time:
@@ -10,13 +16,22 @@ entries:
     is_location_inline: true
   - title: TACCster 2022
     url:
-        webpage: https://sc22.supercomputing.org/
+        webpage: https://www.tacc.utexas.edu/taccster-2022
         image: /documents/1084364/2064636/taccster-2022.png
         external: true
     date: September 28–30, 2022
     time:
     location: Austin, TX
-    is_location_inline: true
+    is_location_inline: false
+  - title: Gateways 2022
+    url:
+        webpage: https://sciencegateways.org/gateways2022
+        image: /documents/1084364/2064636/sgci.png
+        external: true
+    date: October 18–20, 2022
+    time:
+    location: San Diego, CA
+    is_location_inline: false
   - title: SC22
     url:
         webpage: https://sc22.supercomputing.org/
@@ -25,4 +40,4 @@ entries:
     date: November 13–18, 2022
     time:
     location: Dallas, TX
-    is_location_inline: true
+    is_location_inline: false
