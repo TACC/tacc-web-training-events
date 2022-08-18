@@ -11,7 +11,6 @@ entries:
         image: /documents/1084364/2064636/hpc-leadership.png
         external: false
     date: September 12–14, 2022
-    time:
     location: Dallas, TX
     is_location_inline: true
   - title: TACCster 2022
@@ -20,7 +19,14 @@ entries:
         image: /documents/1084364/2064636/taccster-2022.png
         external: true
     date: September 28–30, 2022
-    time:
+    location: Austin, TX
+    is_location_inline: false
+  - title: Machine Learning Institute at TACC
+    url:
+        webpage: https://cvent.utexas.edu/event/383706cb-95da-4694-9f11-881ec8cac169/summary
+        image: /documents/1084364/2064636/machine-learning-data-analysis.png
+        external: true
+    date: '5-Day Series: October 3–7, 2022'
     location: Austin, TX
     is_location_inline: false
   - title: Gateways 2022
@@ -31,13 +37,23 @@ entries:
     date: October 18–20, 2022
     time:
     location: San Diego, CA
+    is_time_inline: true
     is_location_inline: false
+  - title: Applied Parallel Programming Institute, Four-Session Series
+    url:
+        webpage: https://cvent.utexas.edu/event/45f601b7-7e19-43d3-9d3c-5088c5d0d3e0/summary
+        image: /documents/1084364/2064636/tacc-containers-2022-01.png
+        external: true
+    date: 'Four-Session Series: October 20 & 27, November 3 & 10, 2022'
+    time: Thursdays 10:00 AM – 4:00 PM CST
+    location: Austin, TX
+    is_time_inline: false
+    is_location_inline: true
   - title: SC22
     url:
         webpage: https://sc22.supercomputing.org/
         image: /documents/1084364/2064636/ss22-logo.png
         external: true
     date: November 13–18, 2022
-    time:
     location: Dallas, TX
     is_location_inline: false

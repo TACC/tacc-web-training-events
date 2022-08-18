@@ -8,8 +8,8 @@
 		<p>
 			<a href="{{{url.webpage}}}"{{#url.external}} target="_blank"{{/url.external}}>{{{title}}}</a>{{#extra}}<br />
 			{{extra}}{{/extra}}{{#date}}<br />
-			{{date}}{{/date}}{{#time}}<span>&nbsp; |&nbsp;
-			{{time}}</span>{{/time}}{{#location}}{{#is_location_inline}}&nbsp; |&nbsp;{{/is_location_inline}}{{^is_location_inline}}<br />{{/is_location_inline}}
+			{{date}}{{/date}}{{#time}}{{#is_time_inline}}&nbsp; |&nbsp;
+			{{/is_time_inline}}{{^is_time_inline}}<br />{{/is_time_inline}}{{time}}{{/time}}{{#location}}{{#is_location_inline}}&nbsp; |&nbsp;{{/is_location_inline}}{{^is_location_inline}}<br />{{/is_location_inline}}
 			{{{location}}}{{/location}}</p>
 	</div>
 </div>{{/entries}}
