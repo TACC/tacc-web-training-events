@@ -1,10 +1,10 @@
 entries:
-  - title: Scientific Visualization (Virtual)
+  - title: Scientific Visualization (Virtual), Four-Session Series
     url:
         webpage: https://www.tacc.utexas.edu/education/professionals/tacc-institutes/scientific-visualization
         image: /documents/1084364/2064636/crt-scivis.png
         external: true
-    date: August 31 – September 21, 2022
+    date: 'Four-Session Series: Aug. 31 | Sept. 7 | Sept. 14 | Sept. 21'
   - title: HPC Leadership Institute in Cooperation with Microsoft and MITRE (In Person Only)
     url:
         webpage: https://www.tacc.utexas.edu/education/professionals/tacc-institutes/hpc-leadership
@@ -44,7 +44,7 @@ entries:
         webpage: https://cvent.utexas.edu/event/45f601b7-7e19-43d3-9d3c-5088c5d0d3e0/summary
         image: /documents/1084364/2064636/tacc-containers-2022-01.png
         external: true
-    date: 'Four-Session Series: October 20 & 27, November 3 & 10, 2022'
+    date: 'Four-Session Series: October 20 & 27 | November 3 & 10'
     time: Thursdays 10:00 AM – 4:00 PM CST
     location: Austin, TX
     is_time_inline: false
