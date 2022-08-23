@@ -1,5 +1,5 @@
 entries:
-  - title: Scientific Visualization (Virtual), Four-Session Series
+  - title: Scientific Visualization (Virtual)
     url:
         webpage: https://www.tacc.utexas.edu/education/professionals/tacc-institutes/scientific-visualization
         image: /documents/1084364/2064636/crt-scivis.png
@@ -39,7 +39,7 @@ entries:
     location: San Diego, CA
     is_time_inline: true
     is_location_inline: false
-  - title: Applied Parallel Programming Institute, Four-Session Series
+  - title: Applied Parallel Programming Institute
     url:
         webpage: https://cvent.utexas.edu/event/45f601b7-7e19-43d3-9d3c-5088c5d0d3e0/summary
         image: /documents/1084364/2064636/tacc-containers-2022-01.png
