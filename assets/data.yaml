@@ -1,18 +1,4 @@
 entries:
-  - title: Scientific Visualization (Virtual)
-    url:
-        webpage: https://www.tacc.utexas.edu/education/professionals/tacc-institutes/scientific-visualization
-        image: /documents/1084364/2064636/crt-scivis.png
-        external: true
-    date: 'Four-Session Series: Aug. 31 | Sept. 7 | Sept. 14 | Sept. 21'
-  - title: HPC Leadership Institute in Cooperation with Microsoft and MITRE (In Person Only)
-    url:
-        webpage: https://www.tacc.utexas.edu/education/professionals/tacc-institutes/hpc-leadership
-        image: /documents/1084364/2064636/hpc-leadership.png
-        external: false
-    date: September 12–14, 2022
-    location: Dallas, TX
-    is_location_inline: true
   - title: TACCster 2022
     url:
         webpage: https://www.tacc.utexas.edu/taccster-2022
