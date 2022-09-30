@@ -1,12 +1,4 @@
 entries:
-  - title: TACCster 2022
-    url:
-        webpage: https://www.tacc.utexas.edu/taccster-2022
-        image: /documents/1084364/2064636/taccster-2022.png
-        external: true
-    date: September 28–30, 2022
-    location: Austin, TX
-    is_location_inline: false
   - title: Machine Learning Institute at TACC
     url:
         webpage: https://cvent.utexas.edu/event/383706cb-95da-4694-9f11-881ec8cac169/summary
