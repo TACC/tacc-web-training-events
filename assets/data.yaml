@@ -1,37 +1,9 @@
 entries:
-  - title: Machine Learning Institute at TACC
+  - title: New Trends in Real-Time Hybrid Simulations to Advance Fluid-Structure Interaction Research
     url:
-        webpage: https://cvent.utexas.edu/event/383706cb-95da-4694-9f11-881ec8cac169/summary
-        image: /documents/1084364/2064636/machine-learning-data-analysis.png
+        webpage: https://www.designsafe-ci.org/learning-center/training/workshops/fiu-ef/new-trends-real-time-hybrid-simulations/
+        image: /documents/1084364/2064636/design-safe.png
         external: true
-    date: '5-Day Series: October 3–7, 2022'
-    location: Austin, TX
-    is_location_inline: false
-  - title: Gateways 2022
-    url:
-        webpage: https://sciencegateways.org/gateways2022
-        image: /documents/1084364/2064636/sgci.png
-        external: true
-    date: October 18–20, 2022
-    time:
-    location: San Diego, CA
-    is_time_inline: true
-    is_location_inline: false
-  - title: Applied Parallel Programming Institute
-    url:
-        webpage: https://cvent.utexas.edu/event/45f601b7-7e19-43d3-9d3c-5088c5d0d3e0/summary
-        image: /documents/1084364/2064636/tacc-containers-2022-01.png
-        external: true
-    date: 'Four-Session Series: October 20 & 27 | November 3 & 10'
-    time: Thursdays 10:00 AM – 4:00 PM CST
-    location: Austin, TX
-    is_time_inline: false
-    is_location_inline: true
-  - title: SC22
-    url:
-        webpage: https://sc22.supercomputing.org/
-        image: /documents/1084364/2064636/ss22-logo.png
-        external: true
-    date: November 13–18, 2022
-    location: Dallas, TX
+    date: November 8–9, 2022
+    location: Miami, Florida
     is_location_inline: false
